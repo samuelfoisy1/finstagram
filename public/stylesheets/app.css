@@ -1,6 +1,6 @@
 header {
-    background-color: #244751;
-    color: #E8FDFF;
+    background-color: #1E91D6;
+    color: #FFFFFF;
 }
 
 header h1 {
@@ -12,7 +12,7 @@ h3 {
     font-size: .80em;
 }
 body {
-    background-color: whitesmoke;
+    background-color: #F5F5F5;
     font-family: 'open-sans', sans-serif;
 }
 
