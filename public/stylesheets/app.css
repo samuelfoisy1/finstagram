@@ -3,9 +3,17 @@ header {
     color: #FFFFFF;
 }
 
-header h1 {
+header h1 a {
     font-family: 'Outfit', sans-serif;
-    padding-left: 1em;
+    margin: 0.5em;
+    color: white !important;
+}
+
+.login-info a {
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 16px;
 }
 
 h3 {
@@ -17,12 +25,14 @@ body {
 }
 
 main {
-    background-color: white;
     padding: 16px;
 }
 
 .finstagram-post {
-    margin-bottom: 48px;
+    background-color: white;
+    border-radius: 35px;
+    padding: 20px;
+    margin-bottom: 28px;
 }
 
 .finstagram-post .user-info img {
